@@ -49,26 +49,26 @@ Namely 5 categories of notifications are displayed:-
 
 **Battery Plugged In**
 
-![Screenshot_2020-05-27-57_234x73](https://user-images.githubusercontent.com/28944997/83031122-d1bf6d00-a051-11ea-9f2a-00bac75bcedc.png)
+![Battery Plugged In](https://github.com/shans10/battery-status/blob/master/Screenshots/bat-plugged-in.png)
 
 **Battery Discharging(above 50%)**
 
 
-![Screenshot_2020-05-27-31_240x73](https://user-images.githubusercontent.com/28944997/83031386-1e0aad00-a052-11ea-98ce-a2081e4f77a5.png)
+![Battery Discharging(above 50%)](https://github.com/shans10/battery-status/blob/master/Screenshots/bat-disch1.png)
 
 **Battery Discharging(below 50%)**
 
-![Screenshot_2020-05-27-50_240x73](https://user-images.githubusercontent.com/28944997/83031644-70e46480-a052-11ea-86be-02490dac38d7.png)
+![Battery Discharging(below 50%)](https://github.com/shans10/battery-status/blob/master/Screenshots/bat-disch2.png)
 
 **Battery Fully Charged**
 
-![Screenshot_2020-05-27-27_258x73](https://user-images.githubusercontent.com/28944997/83031774-a12c0300-a052-11ea-8f4e-247843e2e6a8.png)
+![Battery Fully Charged](https://github.com/shans10/battery-status/blob/master/Screenshots/bat-full.png)
 
 **Battery Low(25%)**
 
 
-![Screenshot_2020-05-27-32_192x73](https://user-images.githubusercontent.com/28944997/83031877-c3258580-a052-11ea-8337-feced07fb41c.png)
+![Battery Low](https://github.com/shans10/battery-status/blob/master/Screenshots/bat-low.png)
 
 **Battery Critical(15%)**
 
-![Screenshot_2020-05-27-19_222x73](https://user-images.githubusercontent.com/28944997/83032007-e819f880-a052-11ea-8f55-e13cb0725143.png)
+![Battery Critical](https://github.com/shans10/battery-status/blob/master/Screenshots/bat-critical.png)
